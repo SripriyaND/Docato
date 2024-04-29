@@ -1,2 +1,2 @@
-String publishableKey="pk_test_51P4NdoSIxOVi6XxvbDt8L72o4zEiZDmf2VnLZgJXRw0JwHzIGBqkyKIiOgagi4KrYt2ErS0zqTy75BOE0SHuKuxm00tzck86go";
+String publishableKey:;
 String secretKey="sk_test_51P4NdoSIxOVi6XxvbYACe7DvcgIasU4ENcr12ucg0huC61gqOdYmspUrq4VhpX5a6mhjVzASyZulnj7aAvqbACBk00Ie9o4fg5";
