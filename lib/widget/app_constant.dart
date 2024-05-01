@@ -1,2 +1,1 @@
-String publishableKey=;
-String secretKey="sk_test_51P4NdoSIxOVi6XxvbYACe7DvcgIasU4ENcr12ucg0huC61gqOdYmspUrq4VhpX5a6mhjVzASyZulnj7aAvqbACBk00Ie9o4fg5";
+
